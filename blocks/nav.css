@@ -25,6 +25,7 @@
   line-height: 20px;
   text-decoration: none;
   transition: #2f80ed 1s linear 2s;
+  color: #000000;
 }
 
 .nav__link:hover {
